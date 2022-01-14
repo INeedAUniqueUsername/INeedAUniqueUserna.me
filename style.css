@@ -1,0 +1,27 @@
+.empty {
+background-color:black; 
+}
+* {
+font-family:Inconsolata; 
+}
+h1 {
+font-size:60px; 
+}
+h2 {
+font-size:30px; 
+}
+p {
+font-size:24px; 
+}
+.entry {
+width:572px; height:192px; margin-bottom:16px; padding:0px 32px 0px 32px; background-color:rgb(255, 255, 255); border:2px solid black; 
+}
+a:link, a:visited {
+color:inherit; text-decoration:inherit; 
+}
+.imgLink:hover * {
+color:transparent; background-color:transparent; 
+}
+.invert:hover * {
+color:white; background-color:black; 
+}
